@@ -27,10 +27,11 @@ clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
 clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
 3.3.2 Thông tin DNS và kĩ thuật
 + Tên máy chủ: 
-Tên máy chủ	            Địa chỉ IP
-gold.foundationdns.com	172.64.40.2
-gold.foundationdns.net	172.64.40.32
-gold.foundationdns.org	108.162.198.62
+| Tên máy chủ | Địa chỉ IP|
+| :--- || :--- |
+|gold.foundationdns.com| 172.64.40.2|
+|gold.foundationdns.net|172.64.40.32|
+|gold.foundationdns.org | 108.162.198.62|
 +  Phân tích bản ghi DNS:
 ![image alt](https://github.com/My-Tien1611/InformationGathering_LeThiMyTien/blob/db9168242cc857fa6fc297a8f43f0fefad6122f5/DNS.jpg)
 3.3.3 Thông tin liên hệ
