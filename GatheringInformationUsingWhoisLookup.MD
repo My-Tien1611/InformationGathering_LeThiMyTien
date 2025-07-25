@@ -100,6 +100,6 @@ Thông tin này rất có giá trị cho mục đích **quản lý** và **bảo
 
 - **Shopify.com thể hiện một cách tiếp cận chuyên nghiệp và bảo mật cao trong quản lý domain. Với lịch sử gần 20 năm, sử dụng registrar premium, và các biện pháp bảo vệ domain toàn diện, công ty đã thiết lập một foundation vững chắc cho hoạt động trực tuyến.**
 - **Tuy nhiên, việc chưa triển khai DNSSEC là một gap bảo mật cần được quan tâm, đặc biệt đối với một platform thương mại điện tử xử lý hàng triệu giao dịch hàng ngày. Điều này có thể tạo ra rủi ro cho cả Shopify và khách hàng của họ trong các cuộc tấn công DNS-based.**
--**Nhìn chung, cấu hình domain của Shopify phản ánh một doanh nghiệp mature với đầu tư nghiêm túc vào bảo mật và infrastructure, nhưng vẫn có không gian để cải thiện theo các tiêu chuẩn bảo mật hiện đại nhất.**
+- **Nhìn chung, cấu hình domain của Shopify phản ánh một doanh nghiệp mature với đầu tư nghiêm túc vào bảo mật và infrastructure, nhưng vẫn có không gian để cải thiện theo các tiêu chuẩn bảo mật hiện đại nhất.**
 
 ---
