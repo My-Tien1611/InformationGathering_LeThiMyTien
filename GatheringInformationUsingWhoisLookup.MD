@@ -28,7 +28,7 @@ clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
 3.3.2 Thông tin DNS và kĩ thuật
 + Tên máy chủ: 
 | Tên máy chủ | Địa chỉ IP|
-| :--- || :--- |
+| :--- | :--- |
 |gold.foundationdns.com| 172.64.40.2|
 |gold.foundationdns.net|172.64.40.32|
 |gold.foundationdns.org | 108.162.198.62|
