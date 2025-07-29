@@ -15,6 +15,7 @@ Cách 1: Sublist3r
 Cách 2: Subfinder
                 go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 - Liệt kê subdomains cơ bản: subfinder -d tesla.com
+![image alt](https://github.com/My-Tien1611/InformationGathering_LeThiMyTien/blob/651804876166bd447a48805349b86c26aa418b14/Subdomains_Tesla.jpg)
 Lệnh này sẽ quét tất cả các nguồn tích hợp sẵn để tìm subdomain của tesla.com và hiển thị ra màn hình.
 - Quét sâu hơn (recursive) và lưu kết quả: 
                 subfinder -d tesla.com -recursive -silent -t 200 -v -o tesla_subdomains.txt
