@@ -49,7 +49,7 @@ Bước 2.2 Online Reverse IP Tools:Truy cập viewdns.info/reverseip
 - 2.18.50.207 và 23.40.100.207,...: Có 1 tên miền được lưu trữ trên máy chủ này: tesla.com
 Kết quả cho thấy Tesla đang sử dụng Akamai CDN. Các IP này thuộc về Akamai Technologies, không phải server gốc của Tesla. 
 Bước 3: Identify CDN/Protection:
-RIFF�\
+![image alt] (https://github.com/My-Tien1611/InformationGathering_LeThiMyTien/blob/68a3864420012e3c254fd3ba01a8c1da6c9f4987/IdentifyCDN_Protection.webp)
 - Server: AkamaiGHost - Confirm Tesla dùng Akamai CDN
 - Không detect Cloudflare - Loại trừ Cloudflare CDN
 - Response headers chỉ từ edge servers
