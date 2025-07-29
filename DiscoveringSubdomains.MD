@@ -12,4 +12,4 @@ Bước 1: Cài đặt:
                 cd Sublist3r
                 sudo pip install -r requirements.txt
                 python sublist3r.py -d tesla.com -o tesla_subdomains.txt
-
+Bước 2: 
