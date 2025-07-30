@@ -56,6 +56,7 @@ Bước 3: Identify CDN/Protection:
 Bước 4: Chuyển sang Passive Recon bằng Subdomain Enumeration:  Dùng CLI tool
 subfinder -d tesla.com -silent > subdomains.txt
 amass enum -passive -d tesla.com >> subdomains.txt
+
 Bước 5: Kiểm tra thông tin hosting của từng subdomain 
 - So sánh IP của từng subdomain với IP của tesla.com
 - Nếu trùng IP ⇒ khả năng cao dùng chung hosting / server backend
