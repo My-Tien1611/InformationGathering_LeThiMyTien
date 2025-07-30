@@ -135,7 +135,7 @@ Kết quả:
 
 ---
 
-#### **Bước 5: Kiểm tra thông tin hosting của từng subdomain**
+#### **Bước 5: Kiểm tra thông tin hosting của từng subdomain (Nếu bước 4 có kết quả IP)**
 
 - So sánh IP của từng subdomain với IP của tesla.com.
 - Nếu trùng IP ⇒ khả năng cao dùng chung hosting/server backend.
