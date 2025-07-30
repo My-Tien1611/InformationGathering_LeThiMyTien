@@ -26,7 +26,6 @@ Là một công cụ khám phá tên miền phụ, giúp tìm ra các tên miề
 Lệnh này sẽ quét tất cả các nguồn tích hợp sẵn để tìm subdomain của tesla.com và hiển thị ra màn hình.
 - Quét sâu hơn (recursive) và lưu kết quả: 
                 subfinder -d tesla.com -recursive -t 200 -v -o tesla_subdomains2.txt
-Để tìm subdomain một cách đệ quy (recursive), chạy nhiều luồng (200 threads), ẩn banner, hiển thị chi tiết (verbose), và lưu kết quả
-- Sử dụng bruteforce để mở rộng kết quả: 
+Lệnh trên để tìm subdomain một cách đệ quy (recursive), chạy nhiều luồng (200 threads), ẩn banner, hiển thị chi tiết (verbose), và lưu kết quả
 2.3 Nhận xét: 
 
